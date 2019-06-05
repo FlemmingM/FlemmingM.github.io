@@ -28,7 +28,7 @@ Please click on the links to view the different projects:
 
 - [Calculating the Sharpe ratio - risk vs. returns](https://nbviewer.jupyter.org/github/FlemmingM/jupyterbooks/blob/master/Risk%20and%20Returns_%20The%20Sharpe%20Ratio/notebook.ipynb)
 
-- [Which debts are worth the banks effort?](https://nbviewer.jupyter.org/github/FlemmingM/jupyterbooks/tree/master/Which_Debts_Are_Worth_the_Banks_Effort)
+- [Which debts are worth the banks effort?](https://nbviewer.jupyter.org/github/FlemmingM/jupyterbooks/blob/master/Which_Debts_Are_Worth_the_Banks_Effort/notebook.ipynb)
 
 - [Alcool tests in Ames, Iowa - the college city](https://nbviewer.jupyter.org/github/FlemmingM/jupyterbooks/blob/master/Whos_drunk_in_Iowa/notebook.ipynb)
 
