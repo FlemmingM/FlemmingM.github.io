@@ -30,7 +30,7 @@ Please click on the links to view the different projects:
 
 - [Which debts are worth the banks effort?](https://nbviewer.jupyter.org/github/FlemmingM/jupyterbooks/blob/master/Which_Debts_Are_Worth_the_Banks_Effort/notebook.ipynb)
 
-- [Alcohol tests in Ames, Iowa - the college city](https://nbviewer.jupyter.org/github/FlemmingM/jupyterbooks/blob/master/Whos_drunk_in_Iowa/notebook.ipynb)
+
 
 ## Web applications:
 
