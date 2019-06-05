@@ -22,6 +22,16 @@ Please click on the links to view the different projects:
 
 - [Machine learning topics](https://nbviewer.jupyter.org/github/FlemmingM/jupyterbooks/blob/master/The%20Hottest%20Topics%20in%20Machine%20Learning/notebook.ipynb)
 
+- [Classify Song Genres from Audio Data](https://nbviewer.jupyter.org/github/FlemmingM/jupyterbooks/blob/master/Classify%20Song%20Genres%20from%20Audio%20Data/notebook.ipynb)
+
+- [Predicting Credit Card Approvals](https://nbviewer.jupyter.org/github/FlemmingM/jupyterbooks/blob/master/Predicting%20Credit%20Card%20Approvals/notebook.ipynb)
+
+- [Calculating the Sharpe ratio - risk vs. returns](https://nbviewer.jupyter.org/github/FlemmingM/jupyterbooks/blob/master/Risk%20and%20Returns_%20The%20Sharpe%20Ratio/notebook.ipynb)
+
+- [Which debts are worth the banks effort?](https://nbviewer.jupyter.org/github/FlemmingM/jupyterbooks/tree/master/Which_Debts_Are_Worth_the_Banks_Effort)
+
+- [Alcool tests in Ames, Iowa - the college city](https://nbviewer.jupyter.org/github/FlemmingM/jupyterbooks/blob/master/Whos_drunk_in_Iowa/notebook.ipynb)
+
 ## Web applications:
 
 [XRPD App](https://v110.shinyapps.io/xrpd_app2/)
