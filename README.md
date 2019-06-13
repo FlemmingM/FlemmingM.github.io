@@ -32,6 +32,8 @@ Please click on the links to view the different projects:
 
 - [NLP: Most frequent words in Moby Dick](https://nbviewer.jupyter.org/github/FlemmingM/jupyterbooks/blob/master/Word%20Frequency%20in%20Moby%20Dick/notebook.ipynb)
 
+- [Predicting the gender of book authors](https://nbviewer.jupyter.org/github/FlemmingM/jupyterbooks/blob/master/Name%20Game_%20Gender%20Prediction%20using%20Sound/notebook.ipynb)
+
 
 
 ## Web applications:
