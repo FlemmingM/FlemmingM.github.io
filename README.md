@@ -30,6 +30,8 @@ Please click on the links to view the different projects:
 
 - [Which debts are worth the banks effort?](https://nbviewer.jupyter.org/github/FlemmingM/jupyterbooks/blob/master/Which_Debts_Are_Worth_the_Banks_Effort/notebook.ipynb)
 
+- [NLP: Most frequent words in Moby Dick](https://nbviewer.jupyter.org/github/FlemmingM/jupyterbooks/blob/master/Word%20Frequency%20in%20Moby%20Dick/notebook.ipynb)
+
 
 
 ## Web applications:
