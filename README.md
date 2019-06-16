@@ -34,6 +34,8 @@ Please click on the links to view the different projects:
 
 - [Predicting the gender of book authors](https://nbviewer.jupyter.org/github/FlemmingM/jupyterbooks/blob/master/Name%20Game_%20Gender%20Prediction%20using%20Sound/notebook.ipynb)
 
+- [Exploring Nobel Price winners](https://nbviewer.jupyter.org/github/FlemmingM/jupyterbooks/blob/master/A%20Visual%20History%20of%20Nobel%20Prize%20Winners/notebook.ipynb)
+
 
 
 ## Web applications:
