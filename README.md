@@ -42,7 +42,7 @@ Please click on the links to view the different projects:
 
 [XRPD App](https://v110.shinyapps.io/xrpd_app2/)
 
-The application is written in R using R Shiny and indtended for the quantification of crystalline and amorphous content of drugs in pharmaceutical formulations.
+The application is written in R using R Shiny and intended for the quantification of crystalline and amorphous content of drugs in pharmaceutical formulations.
 Please refer to the `README.md` [file](https://github.com/FlemmingM/APPs/edit/master/xrpd_app2/README.md) before using the application.
 
 [Topic Analysis App](https://v110.shinyapps.io/ccec17413af343de8478d9f56142d74f/)
