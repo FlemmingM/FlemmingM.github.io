@@ -3,6 +3,9 @@
 Please click on the links to view the different projects:
 
 ## Jupyter notebooks:
+The tasks in these notebooks are provided by DataCamp.com. 
+Here, I present the solutions I found for the problems. 
+
 
 - [Baseball project](https://nbviewer.jupyter.org/github/FlemmingM/jupyterbooks/blob/master/A%20New%20Era%20of%20Data%20Analysis%20in%20Baseball/notebook.ipynb) 
 
