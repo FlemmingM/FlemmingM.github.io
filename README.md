@@ -67,7 +67,12 @@ Here, I present the solutions I found for the problems.
 The application is written in R using R Shiny and intended for the quantification of crystalline and amorphous content of drugs in pharmaceutical formulations.
 Please refer to the `README.md` [file](https://github.com/FlemmingM/APPs/edit/master/xrpd_app2/README.md) before using the application.
 
-[Topic Analysis App](https://v110.shinyapps.io/ccec17413af343de8478d9f56142d74f/)
+[LDA - Topic Analysis App](https://v110.shinyapps.io/ccec17413af343de8478d9f56142d74f/)
+
+The app is taking data from open questions such as surveys and extracts the most important topics using Latent Dirichlet Allocation.
+Subsequently, the data is visualised.
+
+Please use the app provided below to get test data and upload them into the LDA app
 
 [Downloader App](https://v110.shinyapps.io/test/)
 This app can be used to download example data with 7 answered open questions. The file can then be imported for the topic analysis.
