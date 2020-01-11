@@ -2,6 +2,25 @@
 
 Please click on the links to view the different projects:
 
+## West Nile Virus (WNV) incidence in Chicago - Project
+The project is devided in different notebooks and save on the IBM Watson cloud for data storage.
+The goal of the project was to idetify the most abundant mosquito locations in Chicago as well as the likelihood of being infected with the WNV if bitten. Finally, the project was constructed in accordance with the IBM Cloud Garage Method for Data Science. 
+
+- [Part 1 - Extract Transform Load](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/2e589af3-fddc-4aee-a77a-2aecfa999012/view?access_token=b96977c1e058167825d5ee9693555f56d60cfb927683dacdea3d18c5e2a751df)
+
+- [Part 2 - Data exploration](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/1559d96c-3cd1-459f-a150-7f235342d972/view?access_token=909406791915e953683049787c6bf9dbb4ac55d4f5086e55ada77c064923c071)
+
+- [Part 3 - Feature engineering](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/e942a5ae-5e31-465d-82e6-8b9aad0a6a4f/view?access_token=9ddbd4d371495eb45813555639860f455ab82dec97d1698e7816de1b536c77b1)
+
+- [Part 4 - Model definition](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/f486d0f6-956d-4cee-bb53-21c45abee048/view?access_token=60de0a9514b4a40d22308844c86f13f3094394200aaa6eaa5f850eea2426d1b5)
+
+- [Part 5 - Model training](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/7264f0ab-9e6e-4d37-965e-59a86e61d0bb/view?access_token=d007320f091484fb0717763d51e6327730c73ea2d85c6fe397126befc0714a85)
+
+- [Part 6 - Model evaluation](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/56357d34-691e-4819-bc74-5e19bf3847a0/view?access_token=7bc80b3e0a8b3e2edfb2afed9430b647fac65bf656d5d204946f0769c4da589c)
+
+
+
+
 ## Jupyter notebooks:
 The tasks in these notebooks are provided by DataCamp.com. 
 Here, I present the solutions I found for the problems. 
