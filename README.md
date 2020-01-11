@@ -1,4 +1,4 @@
-# Project portfolio - Flemming Morsch
+# Projects - Flemming Morsch
 
 Please click on the links to view the different projects:
 
