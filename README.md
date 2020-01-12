@@ -6,6 +6,8 @@ Please click on the links to view the different projects:
 The project is devided in different notebooks and save on the IBM Watson cloud for data storage.
 The goal of the project was to idetify the most abundant mosquito locations in Chicago as well as the likelihood of being infected with the WNV if bitten. Finally, the project was constructed in accordance with the IBM Cloud Garage Method for Data Science. 
 
+- [A presentation video](https://youtu.be/hoVJMDkyBxM)
+
 - [Part 1 - Extract Transform Load](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/2e589af3-fddc-4aee-a77a-2aecfa999012/view?access_token=b96977c1e058167825d5ee9693555f56d60cfb927683dacdea3d18c5e2a751df)
 
 - [Part 2 - Data exploration](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/1559d96c-3cd1-459f-a150-7f235342d972/view?access_token=909406791915e953683049787c6bf9dbb4ac55d4f5086e55ada77c064923c071)
