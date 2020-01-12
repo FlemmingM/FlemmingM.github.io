@@ -20,10 +20,52 @@ The goal of the project was to idetify the most abundant mosquito locations in C
 
 - [Part 6 - Model evaluation](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/56357d34-691e-4819-bc74-5e19bf3847a0/view?access_token=7bc80b3e0a8b3e2edfb2afed9430b647fac65bf656d5d204946f0769c4da589c)
 
+## Web applications:
 
+[XRPD App](https://v110.shinyapps.io/xrpd_app2/)
+
+This project was part of my MSc. project in Pharmaceutical Sciences.
+
+The application is written in R using R Shiny and intended for the quantification of crystalline and amorphous content of drugs in pharmaceutical formulations.
+Please refer to the `README.md` [file](https://github.com/FlemmingM/APPs/edit/master/xrpd_app2/README.md) before using the application.
+
+[LDA - Topic Analysis App](https://v110.shinyapps.io/ccec17413af343de8478d9f56142d74f/)
+
+The app is taking data from open questions such as surveys and extracts the most important topics using Latent Dirichlet Allocation.
+Subsequently, the data is visualised.
+
+Please use the app provided below to get test data and upload them into the LDA app
+
+[Downloader App](https://v110.shinyapps.io/test/)
+This app can be used to download example data with 7 answered open questions. The file can then be imported for the topic analysis.
 
 
 ## Jupyter notebooks:
+
+### Probabilistic programming
+
+- [Bayesian Neural Networks with Pyro](https://nbviewer.jupyter.org/github/FlemmingM/new_projects/blob/master/BNN_2layers3-Copy1.ipynb)
+
+- [Gaussian Mixture Model](https://nbviewer.jupyter.org/github/FlemmingM/new_projects/blob/master/guassian_mixture.ipynb)
+
+### From scratch:
+
+- [Neural Networks with numpy](https://nbviewer.jupyter.org/github/FlemmingM/new_projects/blob/master/NN_scratch_fm.ipynb)
+
+- [Logistic Regression from scratch](https://nbviewer.jupyter.org/github/FlemmingM/new_projects/blob/master/log_reg.ipynb)
+
+### Autoencoders:
+
+- [Autoencoder](https://nbviewer.jupyter.org/github/FlemmingM/new_projects/blob/master/Autoencoders.ipynb)
+
+### Convolutional Neural Networks:
+
+- [CNN with Keras](https://nbviewer.jupyter.org/github/FlemmingM/new_projects/blob/master/cnn_cifar10_clean.ipynb)
+
+
+
+
+### Interesting projects to solve from DataCamp
 The tasks in these notebooks are provided by DataCamp.com. 
 Here, I present the solutions I found for the problems. 
 
