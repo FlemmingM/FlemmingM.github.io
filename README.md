@@ -3,8 +3,8 @@
 Please click on the links to view the different projects:
 
 ## West Nile Virus (WNV) incidence in Chicago - Project
-The project is devided in different notebooks and save on the IBM Watson cloud for data storage.
-The goal of the project was to idetify the most abundant mosquito locations in Chicago as well as the likelihood of being infected with the WNV if bitten. Finally, the project was constructed in accordance with the IBM Cloud Garage Method for Data Science. 
+The project is divided in different notebooks and saved on the IBM Watson cloud for data storage.
+The goal of the project was to identify the most abundant mosquito locations in Chicago as well as the likelihood of being infected with the WNV if bitten. Finally, the project was designed in accordance with the IBM Cloud Garage Method for Data Science. 
 
 - [A presentation video](https://youtu.be/hoVJMDkyBxM)
 
